@@ -1,0 +1,21 @@
+/* styles.css */
+.train-list {
+    background-color: lightblue;
+    padding: 20px;
+  }
+  
+  .train-item {
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .train-link {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  .train-link:hover {
+    text-decoration: underline;
+  }
+  
